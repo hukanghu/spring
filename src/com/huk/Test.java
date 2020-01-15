@@ -10,6 +10,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		Person p1 = new Person("111", "aaa");
         Person p2 = new Person("222", "bbb");
+        Person p3 = new Person("333", "ccc");
         List list = new ArrayList();
         list.add(p1);
         list.add(p2);
